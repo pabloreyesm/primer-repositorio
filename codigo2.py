@@ -1,2 +1,2 @@
-nombre = "pablo"
+nombre = "eliminado"
 print("hola" + nombre)
